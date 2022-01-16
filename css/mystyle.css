@@ -1,0 +1,238 @@
+body{
+    background-color: blue;
+}
+
+#my-image{
+    background-image: url("../images/me.jpg");
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    margin-right: 25%;
+    margin-left: 25%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 5px rgba(0,0,0,.5);
+}
+
+.image-text{
+    left: 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+.name{
+    font-size:50px;
+}
+
+.about-me{
+    font-size:35px;
+    
+}
+
+#cover-letter{
+    width:70%;
+    float: left;
+    font-size: 20px;
+    border: red;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5);
+    padding: 50px;
+    margin: 30px;
+    background-color: lightblue;
+}
+
+.keep-going{
+    font-size: 20px;
+    text-align: center;
+    background-color: lightblue;
+    border-radius: 5px;
+    display: inline;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5);;
+}
+
+td a{
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5);
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    background-color:black
+}
+
+table{
+    border-spacing: 40px;
+}
+
+.exp{
+    float:right;
+}
+
+.pt-photo{
+    background-color: lightblue;
+    margin-right: 45%;
+    margin-left:25px;
+    text-align: center;
+    font-size: 20px;
+    color:blue;
+    border-radius:5px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5);
+}
+
+#pt-photo{
+    background-image: url("../images/pt.jpg");
+    background-size: cover;
+    background-position: center;
+    float: right;
+    width: 520px;
+    height: 850px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5);
+    margin-right:5%
+}
+
+#filler{
+    background-color: lightblue;
+    color:blue;
+    font-size:20px;
+    text-align: center;
+    margin-right:45%;
+    margin-left:25px;
+    border-radius:5px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5); 
+}
+
+.compeng{
+    background-color: lightblue;
+    color:blue;
+    font-size:20px;
+    text-align: center;
+    margin-right:45%;
+    margin-left:25px;
+    border-radius:5px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5);
+}
+
+#compeng-pic{
+    background-image:url("../images/softeng.jpg");
+    margin-left:57.5%;
+    height: 350px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5);
+    background-position:center;
+    background-size: contain;
+    width: 520px;
+    margin-top:-25%
+}
+
+#bkgrd-pic{
+    background-image:linear-gradient(rgba(208, 204, 231, 0.993),rgba(0, 0, 0, 0.699)),url("../images/learning.jpg");
+    background-position:center;
+    background-size:contain;
+    font-size:20px;
+    margin-right:20%;
+    text-align: center;
+    color:blue;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5);
+    border-radius: 5px;
+}
+
+#form{
+    display: block;
+    text-align: center;
+}
+
+#why{
+    background-color: lightblue;
+    margin-left:15%;
+    margin-right:30%;
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+    border-radius:5px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5);
+}
+
+#goal{
+    background-color: lightblue;
+    margin-right:15%;
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+    border-radius:5px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5);
+}
+
+ol{
+    text-align:left;
+    font-weight: bold;
+}
+
+#workout{
+    background-color: lightblue;
+    float:left;
+    margin-right: 75%;
+    text-align:center;
+    color:blue;
+    font-size: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5);
+    margin-bottom:10px;
+    margin-top:-12.5%
+}
+
+#my-hobbies{
+    background-color: lightblue;
+    color: blue;
+    text-align: center;
+    margin-right: 33%;
+    margin-left:33%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5)
+}
+
+#snowboarding{
+    background-color: lightblue;
+    float:none;
+    margin-left: 27%;
+    margin-right:47%;
+    text-align:center;
+    color:blue;
+    font-size: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5);
+}
+
+#gaming{
+    background-color: lightblue;
+    float:right;
+    margin-left:55%;
+    margin-right: 13%;
+    text-align:center;
+    font-size: 20px;
+    color:blue;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5);
+    margin-top: -12.5%
+}
+
+.image1{
+    margin-top:-10%;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5);
+    width: 475px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5)
+}
+
+.image2{
+    width:475px;
+    height: 350px;
+    margin-left:2.5%;
+    margin-top:-10%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5)
+}
+
+.image3{
+    margin-left:40px;
+    margin-top:20px;
+    width:600px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,.5)
+}
